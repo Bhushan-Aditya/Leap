@@ -1,5 +1,0 @@
-{
-    "buildCommand": "cd leap-cbpl && npm install && npm run build",
-    "outputDirectory": "leap-cbpl/dist",
-    "installCommand": "cd leap-cbpl && npm install"
-}
